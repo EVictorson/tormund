@@ -6,3 +6,7 @@
 	path = catkin_ws/src/rplidar_ros
 	url = git@github.com:EVictorson/rplidar_ros.git
 	branch = master
+[submodule "embedded_arduino/Arduino-PID-Library"]
+	path = embedded_arduino/Arduino-PID-Library
+	url = git@github.com:EVictorson/Arduino-PID-Library.git
+	branch = master
